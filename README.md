@@ -1,6 +1,6 @@
 # Patrycja-Murdzia-Software tester Portfolio
 ## TABLE OF CONTENTS                                                                                                                                                                          
-- [ABOUT ME](#about_me)
+- [ABOUT ME](#about_me) [COMMERCIAL TESTING](#commercial_testing)
 ## 🔍 ABOUT ME
 **Hi there** 👋                                                                                                                                                                              
 My name is **Patrycja**, I am an **aspiring Software Tester** who loves making sure software works well and is easy to use. I am learning by working on **practical projects, practicing manual testing, reporting bugs,** and understanding **how software works**. 
@@ -13,7 +13,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
   <strong> Let’s connect on LinkedIn</strong>
 </a>
 
-## 💼 Commercial Testing
+## 💼 COMMERCIAL TESTING
 **Game Testing**
 - Exploratory and functional testing of mobile games for an external client
 - Analysis of user interface, gameplay logic and application stability
