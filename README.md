@@ -18,7 +18,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 - Exploratory and functional testing of mobile games for an external client
 - Analysis of user interface, gameplay logic and application stability
 - Creating bug reports (clear reproduction steps, expected vs actual results, evidence)
-- Testing of 4 games according to provided requirements
+- Testing of 4 games according to provided requirements                                                                                    
 **Mobile App Demo Testing**
 - Testing a demo mobile application for functional correctness and usability
 - Verifying the user interface, application logic, and overall stability
