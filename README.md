@@ -1,6 +1,6 @@
 # Patrycja-Murdzia-Software tester Portfolio
 ## TABLE OF CONTENTS                                                                                                                                                                          
-- [ABOUT ME](#about_me) [COMMERCIAL TESTING](#commercial_testing)
+- [ABOUT ME](#about_me) - [COMMERCIAL TESTING](#commercial_testing)
 ## 🔍 ABOUT ME
 **Hi there** 👋                                                                                                                                                                              
 My name is **Patrycja**, I am an **aspiring Software Tester** who loves making sure software works well and is easy to use. I am learning by working on **practical projects, practicing manual testing, reporting bugs,** and understanding **how software works**. 
