@@ -7,8 +7,9 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 
 **Why testing?** During my **UX/UI design course**, I noticed that **I naturally spot errors** and **recognize** when **something doesn’t work as it should**. That’s why I decided to start a **QA course** and now **the knowledge from both fields helps me a lot in testing**.
 
-Visit my <img width="420" height="196" alt="image" src="https://github.com/user-attachments/assets/f3d833e5-80be-4862-acee-7d8375c17fab" />
-
+Visit my <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+</a>
 
 ## MY PROJECTS
 
