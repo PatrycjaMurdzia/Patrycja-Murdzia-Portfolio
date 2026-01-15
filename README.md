@@ -45,7 +45,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 👉 [See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)
                                                                                                                                                                                            
 ## EXERCISES                                                                                                                                                                               
-➡️ ### **DEVTOOLS TASKS**<br>
+### ➡️ **DEVTOOLS TASKS**<br>
 ➡️ **SQL TASKS - DBeaver**<br>
 ➡️ **TEST CASES TASKS**<br>
 ➡️ **BUG REPORT TASKS**<br>
