@@ -42,16 +42,16 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 - Preparing test scenarios without test execution (conceptual testing)
                                                                                                                                                                                            
 ## MY ALL PROJECTS                                                                                                                                                                         
-👉 [See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)
+### 👉 [See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)
                                                                                                                                                                                            
 ## EXERCISES                                                                                                                                                                               
 ### ➡️ **DEVTOOLS TASKS**<br>
-➡️ **SQL TASKS - DBeaver**<br>
-➡️ **TEST CASES TASKS**<br>
-➡️ **BUG REPORT TASKS**<br>
-➡️ **POSTMAN TASKS**<br>
-➡️ **JSON TASKS - VISUAL STUDIO CODE**<br>
-➡️ **HTML/CSS**<br>
+### ➡️ **SQL TASKS - DBeaver**<br>
+### ➡️ **TEST CASES TASKS**<br>
+### ➡️ **BUG REPORT TASKS**<br>
+### ➡️ **POSTMAN TASKS**<br>
+### ➡️ **JSON TASKS - VISUAL STUDIO CODE**<br>
+### ➡️ **HTML/CSS**<br>
 
 
 
