@@ -54,7 +54,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 🏆 [Certificate QA]()<br>
 
 ### MAY 2024<br>
-🏆 [ISTQB Foundation Level Certificate]()<br>
+🏆 [ISTQB Foundation Level Certificate](https://github.com/PatrycjaMurdzia/Certificates/blob/main/ISTQB%20Certificate.pdf)<br>
 
 ## EXERCISES                                                                                                                                                                               
 ### ➡️ [TEST CASES TASKS](https://github.com/PatrycjaMurdzia/Completed-tasks/blob/main/Test%20cases%20tasks/README.md)<br>
