@@ -39,7 +39,8 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 - Creating test documentation based on a mobile application UX/UI prototype
 - Designing test cases according to user flows and requirements
 - Analyzing usability and potential risk areas
-- Preparing test scenarios without test execution (conceptual testing)                                                                                                                     
+- Preparing test scenarios without test execution (conceptual testing)
+                                                                                                                                                                                           
 ##**[See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)**
 
 
