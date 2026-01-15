@@ -52,7 +52,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 ### APRIL 2023 - AUGUST 2023<br>
 [3 months QUALITY ASSURANCE COURSE - GOIT](https://goit.global/pl/)<br>
 ### MAY 2024<br>
-🏆 [ISTQB Foundation Level Certificate](https://mail.google.com/mail/u/0/#search/istqb/FMfcgzGxTFZVbBnZsTtggWzrKXkFNnvV?projector=1&messagePartId=0.1)<br>
+🏆 [ISTQB Foundation Level Certificate](file:///C:/Users/misie/Desktop/Kurs%20QA/ISTQB%20Certificate.pdf)<br>
 
 ## EXERCISES                                                                                                                                                                               
 ### ➡️ [TEST CASES TASKS](https://github.com/PatrycjaMurdzia/Completed-tasks/blob/main/Test%20cases%20tasks/README.md)<br>
