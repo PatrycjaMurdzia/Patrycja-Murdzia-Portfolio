@@ -41,7 +41,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 - Analyzing usability and potential risk areas
 - Preparing test scenarios without test execution (conceptual testing)
                                                                                                                                                                                            
-##**[See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)**
+## 👉 [See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)
 
 
 
