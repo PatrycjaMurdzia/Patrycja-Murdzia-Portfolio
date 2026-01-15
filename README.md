@@ -14,20 +14,20 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 </a>
 
 ## 💼 COMMERCIAL TESTING
-**Game Testing**
+### **Game Testing**
 - Exploratory and functional testing of mobile games for an external client
 - Analysis of user interface, gameplay logic and application stability
 - Creating bug reports (clear reproduction steps, expected vs actual results, evidence)
 - Testing of 4 games according to provided requirements
                                                                              
-**Mobile App Demo Testing**
+### **Mobile App Demo Testing**
 - Testing a demo mobile application for functional correctness and usability
 - Verifying the user interface, application logic, and overall stability
 - Preparing test cases and documenting bugs with clear reports for the development team
 - Proposing improvement suggestions based on testing results
 
 ## 📝 PROJECTS               
-**Web Application Testing – GOIT**                                                                                                         
+### **Web Application Testing – GOIT**                                                                                                         
 [Project repository](https://github.com/PatrycjaMurdzia/Final-project-ending-QA-course)
 - Analyzing test documentation and requirements
 - Creating test cases
@@ -35,7 +35,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 - Reporting bugs using TestRail
 - Preparing test report
                                                                                                                                                                                            
-**Test Documentation – Mobile App (UX/UI Project)**
+### **Test Documentation – Mobile App (UX/UI Project)**
 - Creating test documentation based on a mobile application UX/UI prototype
 - Designing test cases according to user flows and requirements
 - Analyzing usability and potential risk areas
