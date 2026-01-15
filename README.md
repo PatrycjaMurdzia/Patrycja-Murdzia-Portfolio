@@ -47,7 +47,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 ## 🎓 COURSES<br>
 ### AUGUST 2022 - APRIL 2023<br>
 9 months UX Designer Course with UI elements - Infoshare Academy<br>
-🏆 [Certificate](file:///C:/Users/misie/Desktop/KURS%20UX/Certyfikat%20Bootcamp%20UX%20Designer%20infoShare%20Academy%20P.Ilasz.pdf)<br>
+🏆 [Certificate UX Designer](file:///C:/Users/misie/Desktop/KURS%20UX/Certyfikat%20Bootcamp%20UX%20Designer%20infoShare%20Academy%20P.Ilasz.pdf)<br>
 
 ### APRIL 2023 - AUGUST 2023<br>
 [3 months QUALITY ASSURANCE COURSE - GOIT](https://goit.global/pl/)<br>
