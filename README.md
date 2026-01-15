@@ -32,8 +32,7 @@ Project repository
 - Analyzing test documentation, requirements and creating test cases
 - Performing manual testing (functional, regression, and exploratory tests)
 - Reporting bugs using TestRail
-- Preparing test report                                                                                                                                                                    
-**Test Documentation – Mobile App (UX/UI Project)**
+- Preparing test report                                                                                                                                                                   **Test Documentation – Mobile App (UX/UI Project)**
 - Creating test documentation based on a mobile application UX/UI prototype
 - Designing test cases according to user flows and requirements
 - Analyzing usability and potential risk areas
