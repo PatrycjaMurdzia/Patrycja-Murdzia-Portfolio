@@ -46,12 +46,12 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
                                                                                                                                                                                            
 ## EXERCISES                                                                                                                                                                               
 ➡️ **DEVTOOLS TASKS**<br>
-➡️ **SQL TASKS - DBeaver**
-➡️ **TEST CASES TASKS**
-➡️ **BUG REPORT TASKS**
-➡️ **POSTMAN TASKS**
-➡️ **JSON TASKS - VISUAL STUDIO CODE**
-➡️ **HTML/CSS**
+➡️ **SQL TASKS - DBeaver**<br>
+➡️ **TEST CASES TASKS**<br>
+➡️ **BUG REPORT TASKS**<br>
+➡️ **POSTMAN TASKS**<br>
+➡️ **JSON TASKS - VISUAL STUDIO CODE**<br>
+➡️ **HTML/CSS**<br>
 
 
 
