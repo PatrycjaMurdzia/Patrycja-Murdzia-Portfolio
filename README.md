@@ -1,10 +1,8 @@
 # Patrycja-Murdzia-Tester oprogramowania
 ## SPIS TREŚCI                                                                                                                                                                          
 ◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty) ◦ [MOJE WSZYSTKIE PROJEKTY](#mojewszystkieprojekty) ◦ [KURSY](#kursy) ◦ [ZADANIA PRAKTYCZNE](#zadaniapraktyczne)
-## 🔍 O MNIE
-<p align="center"> 
-### CZEŚĆ! 👋
-</p>  
+## 🔍 O MNIE 
+### CZEŚĆ! 👋  
 Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasjonuje mnie **zapewnianie jakości i użyteczności aplikacji**. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA.
 
 **Dlaczego testowanie?** Podczas kursu **UX/UI** zauważyłam, że naturalnie wyłapuję błędy i rozpoznaję problemy w działaniu aplikacji. Chciałam dowiedzieć się więcej o tym, jak testuje się oprogramowanie w praktyce, dlatego rozpoczęłam **kurs QA**. Teraz łączę wiedzę z obu dziedzin, co pozwala mi lepiej oceniać użyteczność i jakość aplikacji.
@@ -96,11 +94,11 @@ Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasj
 - MIRO
 - 
 
-
-### Dziękuję za zapoznanie się z moim portfolio.  
+<p align="center">
+### 🙏 Dziękuję za zapoznanie się z moim portfolio.  
 ### Jestem otwarta na możliwość zdobywania doświadczenia i dalszego rozwoju w obszarze QA.
 ### Zapraszam do kontaktu.
-
 <a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
+</p>
