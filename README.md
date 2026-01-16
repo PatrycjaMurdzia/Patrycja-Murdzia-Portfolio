@@ -1,17 +1,15 @@
-# Patrycja-Murdzia-Software tester Portfolio
-## TABLE OF CONTENTS                                                                                                                                                                          
-◦ [ABOUT ME](#about_me) ◦ [COMMERCIAL TESTING](#commercial_testing) ◦ [PROJECTS](#projects) ◦ [MY ALL PROJECTS](#myallprojects) ◦ [COURSES](#courses) ◦ [EXERCISES](#exercises)
-## 🔍 ABOUT ME
-**Hi there** 👋                                                                                                                                                                              
-My name is **Patrycja**, I am an **aspiring Software Tester** who loves making sure software works well and is easy to use. I am learning by working on **practical projects, practicing manual testing, reporting bugs,** and understanding **how software works**. 
+# Patrycja-Murdzia-Tester oprogramowania
+## SPIS TREŚCI                                                                                                                                                                          
+◦ [O MNIE](#o mnie) ◦ [Testowanie komercyjne](#testowanie komercyjne) ◦ [PROJEKTY](#projekty) ◦ [MOJE WSZYSTKIE PROJEKTY](#moje wszystkie projekty) ◦ [KURSY](#kursy) ◦ [Zadania praktyczne](#zadaniapraktyczne)
+## 🔍 O MNIE
+**CZEŚĆ!** 👋                                                                                                                                                                              
+Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasjonuje mnie **zapewnianie jakości i użyteczności aplikacji**. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA.
 
-**Why testing?** During my **UX/UI design course**, I noticed that **I naturally spot errors** and **recognize** when **something doesn’t work as it should**. That’s why I decided to start a **QA course** and now **the knowledge from both fields helps me a lot in testing**.
+**Dlaczego testowanie?** Podczas kursu **UX/UI** zauważyłam, że naturalnie wyłapuję błędy i rozpoznaję problemy w działaniu aplikacji. Chciałam dowiedzieć się więcej o tym, jak testuje się oprogramowanie w praktyce, dlatego rozpoczęłam **kurs QA**. Teraz łączę wiedzę z obu dziedzin, co pozwala mi lepiej oceniać użyteczność i jakość aplikacji.
 
+<img width="500" height="500" alt="obrazek" src="https://github.com/user-attachments/assets/2bc10f57-1e47-4e64-af7a-549eb90641e7" />
 
-<a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  <strong> Let’s connect on LinkedIn</strong>
-</a>
+Źródło: [Freepik](https://pl.freepik.com/)
 
 ## 💼 COMMERCIAL TESTING
 ### **Game Testing**
@@ -68,3 +66,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 
 
 
+<a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <strong> Let’s connect on LinkedIn</strong>
+</a>
