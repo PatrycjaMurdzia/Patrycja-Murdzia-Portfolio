@@ -1,6 +1,6 @@
 # Patrycja-Murdzia-Tester oprogramowania
 ## SPIS TREŚCI                                                                                                                                                                          
-◦ [O MNIE](#o mnie) ◦ [Testowanie komercyjne](#testowanie komercyjne) ◦ [PROJEKTY](#projekty) ◦ [MOJE WSZYSTKIE PROJEKTY](#moje wszystkie projekty) ◦ [KURSY](#kursy) ◦ [Zadania praktyczne](#zadaniapraktyczne)
+◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty) ◦ [MOJE WSZYSTKIE PROJEKTY](#mojewszystkieprojekty) ◦ [KURSY](#kursy) ◦ [ZADANIA PRAKTYCZNE](#zadaniapraktyczne)
 ## 🔍 O MNIE
 **CZEŚĆ!** 👋                                                                                                                                                                              
 Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasjonuje mnie **zapewnianie jakości i użyteczności aplikacji**. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA.
@@ -10,56 +10,53 @@ Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasj
 <p align="center">
   <img width="500" height="500" alt="obrazek" src="https://github.com/user-attachments/assets/2bc10f57-1e47-4e64-af7a-549eb90641e7" />
 </p>
-## 💼 COMMERCIAL TESTING
-### **Game Testing**
-- Exploratory and functional testing of mobile games for an external client
-- Analysis of user interface, gameplay logic and application stability
-- Creating bug reports (clear reproduction steps, expected vs actual results, evidence)
-- Testing of 4 games according to provided requirements
+
+## 💼 DOŚWIADCZENIE
+### **TESTOWANIE GIER**
+- Ekploracyjne i funkcjonalne testowanie gier zgodnie z wymaganiami na zlecenie klienta zewnętrznego,
+- Analiza interfejsu, logiki rozgrywki oraz stabilności aplikacji,
+- Tworzenie raportów błędów (kroki odtworzenia, rezultat oczekiwany vs. rzeczywisty, materiał dowodowy).
                                                                              
-### **Mobile App Demo Testing**
-- Testing a demo mobile application for functional correctness and usability
-- Verifying the user interface, application logic, and overall stability
-- Preparing test cases and documenting bugs with clear reports for the development team
-- Proposing improvement suggestions based on testing results
+### **TESTOWANIE DEMO APLIKACJI MOBILNEJ**
+- Testowanie demo aplikacji mobilnej pod kątem poprawności działania funkcji i użyteczności,
+- Weryfikacja interfejsu, logiki aplikacji i ogólnej stabilności,
+- Dokumentowanie błędów i przygotowywanie sugestii usprawnień dla zespołu deweloperskiego.
 
-## 📝 PROJECTS               
-### **Web Application Testing – GOIT**                                                                                                         
-[Project repository](https://github.com/PatrycjaMurdzia/Final-project-ending-QA-course/blob/main/Projekt%20ko%C5%84cowy%20GOIT.pdf)
-- Analyzing test documentation and requirements
-- Creating test cases
-- Performing manual testing (functional and exploratory tests)
-- Reporting bugs using TestRail
-- Preparing test report
+## 📝 PROJEKTY               
+### **TESTOWANIE APLIKACJI WEBOWEJ – GOIT**                                                                                                         
+[Repozytorium projektu](https://github.com/PatrycjaMurdzia/Final-project-ending-QA-course/blob/main/Projekt%20ko%C5%84cowy%20GOIT.pdf)
+- Analiza wymagań i tworzenie przypadków testowych,
+- Wykonywanie testów manualnych (testy funkcjonalne, regresyjne, eksploracyjne),
+- Zgłaszanie błędów w narzędziu: TestRail
+- Tworzenie raportów z wyników testów oraz dokumentacji testowej.
                                                                                                                                                                                            
-### **Test Documentation – Mobile App (UX/UI Project)**
-- Creating test documentation based on a mobile application UX/UI prototype
-- Designing test cases according to user flows and requirements
-- Analyzing usability and potential risk areas
-- Preparing test scenarios without test execution (conceptual testing)
+### **DOKUMENTACJA TESTOWA APLIKACJI MOBILNEJ ZAPROJEKTOWANEJ NA KURSIE UX/UI**
+- Przygotowanie dokumentacji testowej bazując na prototypie aplikacji mobilnej,
+- Projektowanie scenariuszy testó i przypadków testowych bazując na ścieżce użytkownika, makietach, personach i opisie funkcjonalności.
+- Przygotowanie raportu błędów.
                                                                                                                                                                                            
-## MY ALL PROJECTS                                                                                                                                                                         
-### 👉 [See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)<br>
+## MOJE WSZYSTKIE PROJEKTY                                                                                                                                                                         
+### 👉 [Tutaj znajdziesz wszystkie moje projekty](https://github.com/PatrycjaMurdzia/My-all-projects)<br>
 
-## 🎓 COURSES<br>
-### AUGUST 2022 - APRIL 2023<br>
-9 months UX Designer Course with UI elements - Infoshare Academy<br>
-🏆 [Certificate UX Designer](https://github.com/PatrycjaMurdzia/Certificates/blob/main/Certyfikat%20UX%20Designer%20infoShare%20Academy.pdf)<br>
+## 🎓 KURSY<br>
+### SIERPIEŃ 2022 - KWIECIEŃ 2023<br>
+9-miesięczny kurs UX/UI Design z elementami UI - Infoshare Academy<br>
+🏆 [Certyfikat UX Designer](https://github.com/PatrycjaMurdzia/Certificates/blob/main/Certyfikat%20UX%20Designer%20infoShare%20Academy.pdf)<br>
 
-### APRIL 2023 - AUGUST 2023<br>
-[3 months QUALITY ASSURANCE COURSE - GOIT]<br>
-🏆 [Certificate QA](https://github.com/PatrycjaMurdzia/Certificates/blob/main/Certificate%20QA.pdf)<br>
+### KWIECIEŃ 2023 - SIERPIEŃ 2023<br>
+[3-miesięczny kurs testera oprogramowania - GOIT]<br>
+🏆 [Certyfikat QA](https://github.com/PatrycjaMurdzia/Certificates/blob/main/Certificate%20QA.pdf)<br>
 
-### MAY 2024<br>
-🏆 [ISTQB Foundation Level Certificate](https://github.com/PatrycjaMurdzia/Certificates/blob/main/ISTQB%20Certificate.pdf)<br>
+### MAJ 2024<br>
+🏆 [Certyfikat ISTQB Poziom podstawowy](https://github.com/PatrycjaMurdzia/Certificates/blob/main/ISTQB%20Certificate.pdf)<br>
 
-## EXERCISES                                                                                                                                                                               
-### ➡️ [TEST CASES TASKS](https://github.com/PatrycjaMurdzia/EXERCISES/blob/main/TEST%20CASES%20EXAMPLES/README.md)<br>
-### ➡️ **BUG REPORT TASKS**<br>
-### ➡️ **DEVTOOLS TASKS**<br>
-### ➡️ **SQL TASKS - DBeaver**<br>
-### ➡️ **POSTMAN TASKS**<br>
-### ➡️ **JSON TASKS - VISUAL STUDIO CODE**<br>
+## ZADANIA PRAKTYCZNE                                                                                                                                                                               
+### ➡️ [PRZYPADKI TESTOWE](https://github.com/PatrycjaMurdzia/EXERCISES/blob/main/TEST%20CASES%20EXAMPLES/README.md)<br>
+### ➡️ **RAPORTY BŁEDÓW**<br>
+### ➡️ **DEVTOOLS**<br>
+### ➡️ **SQL - DBeaver**<br>
+### ➡️ **POSTMAN**<br>
+### ➡️ **JSON - VISUAL STUDIO CODE**<br>
 ### ➡️ **HTML/CSS**<br>
 
 
