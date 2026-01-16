@@ -1,11 +1,16 @@
 # Patrycja-Murdzia-Tester oprogramowania
 ## SPIS TREŚCI                                                                                                                                                                          
-◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty) ◦ [MOJE WSZYSTKIE PROJEKTY](#mojewszystkieprojekty) ◦ [KURSY](#kursy) ◦ [ZADANIA PRAKTYCZNE](#zadaniapraktyczne)
+◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty) ◦ [MOJE WSZYSTKIE PROJEKTY](#mojewszystkieprojekty) ◦ [KURSY](#kursy) ◦ [ZADANIA PRAKTYCZNE](#zadaniapraktyczne) ◦ [UMIEJĘTNOŚCI TECHNICZNE](#umiejętnościtechniczne) ◦ [UMIEJĘTNOŚCI MIĘKKIE](#umiejętnościmiękkie) ◦ [NARZĘDZIA](#narzędzia)
 ## 🔍 O MNIE 
 ### CZEŚĆ! 👋  
-Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasjonuje mnie **zapewnianie jakości i użyteczności aplikacji**. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA.
+Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Interesuję się zapewnianiem jakości i użyteczności aplikacji. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA.
 
 **Dlaczego testowanie?** Podczas kursu **UX/UI** zauważyłam, że naturalnie wyłapuję błędy i rozpoznaję problemy w działaniu aplikacji. Chciałam dowiedzieć się więcej o tym, jak testuje się oprogramowanie w praktyce, dlatego rozpoczęłam **kurs QA**. Teraz łączę wiedzę z obu dziedzin, co pozwala mi lepiej oceniać użyteczność i jakość aplikacji.
+
+Zapraszam do obejrzenia mojego portfolio oraz do kontaktu 👇
+<p align="center">
+<img width="552" height="285" alt="image" src="https://github.com/user-attachments/assets/96279ae9-469a-4f13-b4c3-21f3190e605b" />
+</p>
 
 <p align="center">
   <img width="500" height="500" alt="obrazek" src="https://github.com/user-attachments/assets/2bc10f57-1e47-4e64-af7a-549eb90641e7" />
