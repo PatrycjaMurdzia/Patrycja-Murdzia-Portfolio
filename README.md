@@ -7,10 +7,9 @@ Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasj
 
 **Dlaczego testowanie?** Podczas kursu **UX/UI** zauważyłam, że naturalnie wyłapuję błędy i rozpoznaję problemy w działaniu aplikacji. Chciałam dowiedzieć się więcej o tym, jak testuje się oprogramowanie w praktyce, dlatego rozpoczęłam **kurs QA**. Teraz łączę wiedzę z obu dziedzin, co pozwala mi lepiej oceniać użyteczność i jakość aplikacji.
 
-<img width="500" height="500" alt="obrazek" src="https://github.com/user-attachments/assets/2bc10f57-1e47-4e64-af7a-549eb90641e7" />
-
-Źródło: [Freepik](https://pl.freepik.com/)
-
+<p align="center">
+  <img width="500" height="500" alt="obrazek" src="https://github.com/user-attachments/assets/2bc10f57-1e47-4e64-af7a-549eb90641e7" />
+</p>
 ## 💼 COMMERCIAL TESTING
 ### **Game Testing**
 - Exploratory and functional testing of mobile games for an external client
