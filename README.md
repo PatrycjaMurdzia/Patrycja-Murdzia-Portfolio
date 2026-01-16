@@ -57,7 +57,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 🏆 [ISTQB Foundation Level Certificate](https://github.com/PatrycjaMurdzia/Certificates/blob/main/ISTQB%20Certificate.pdf)<br>
 
 ## EXERCISES                                                                                                                                                                               
-### ➡️ [TEST CASES TASKS](https://github.com/PatrycjaMurdzia/Completed-tasks/blob/main/Test%20cases%20tasks/README.md)<br>
+### ➡️ [TEST CASES TASKS](https://github.com/PatrycjaMurdzia/EXERCISES/blob/main/TEST%20CASES%20EXAMPLES/README.md)<br>
 ### ➡️ **BUG REPORT TASKS**<br>
 ### ➡️ **DEVTOOLS TASKS**<br>
 ### ➡️ **SQL TASKS - DBeaver**<br>
