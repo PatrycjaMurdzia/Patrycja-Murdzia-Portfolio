@@ -2,7 +2,9 @@
 ## SPIS TREŚCI                                                                                                                                                                          
 ◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty) ◦ [MOJE WSZYSTKIE PROJEKTY](#mojewszystkieprojekty) ◦ [KURSY](#kursy) ◦ [ZADANIA PRAKTYCZNE](#zadaniapraktyczne)
 ## 🔍 O MNIE
-**CZEŚĆ!** 👋                                                                                                                                                                              
+<p align="center"> 
+### CZEŚĆ! 👋
+</p>  
 Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasjonuje mnie **zapewnianie jakości i użyteczności aplikacji**. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA.
 
 **Dlaczego testowanie?** Podczas kursu **UX/UI** zauważyłam, że naturalnie wyłapuję błędy i rozpoznaję problemy w działaniu aplikacji. Chciałam dowiedzieć się więcej o tym, jak testuje się oprogramowanie w praktyce, dlatego rozpoczęłam **kurs QA**. Teraz łączę wiedzę z obu dziedzin, co pozwala mi lepiej oceniać użyteczność i jakość aplikacji.
