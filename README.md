@@ -8,10 +8,7 @@ Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Inte
 **Dlaczego testowanie?** Podczas kursu **UX/UI** zauważyłam, że naturalnie wyłapuję błędy i rozpoznaję problemy w działaniu aplikacji. Chciałam dowiedzieć się więcej o tym, jak testuje się oprogramowanie w praktyce, dlatego rozpoczęłam **kurs QA**. Teraz łączę wiedzę z obu dziedzin, co pozwala mi lepiej oceniać użyteczność i jakość aplikacji.
 
 Zapraszam do obejrzenia mojego portfolio oraz do kontaktu 👇
-<a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24" style="color:#0A66C2"/>
-</a>
-
+[![LinkedIn](images/linkedin-blue.svg)](https://www.linkedin.com/in/patrycja-murdzia/)
 
 <p align="center">
   <img width="500" height="500" alt="obrazek" src="https://github.com/user-attachments/assets/2bc10f57-1e47-4e64-af7a-549eb90641e7" />
