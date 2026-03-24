@@ -37,13 +37,11 @@ Zapraszam do obejrzenia mojego portfolio 📂 oraz do kontaktu 👉
 - Tworzenie raportów z wyników testów oraz dokumentacji testowej.
                                                                                                                                                                                            
 ### **DOKUMENTACJA TESTOWA APLIKACJI MOBILNEJ ZAPROJEKTOWANEJ NA KURSIE UX/UI**
+Repozytorum projektu
 - Przygotowanie dokumentacji testowej bazując na prototypie aplikacji mobilnej,
 - Projektowanie scenariuszy testó i przypadków testowych bazując na ścieżce użytkownika, makietach, personach i opisie funkcjonalności.
 - Przygotowanie raportu błędów.
-                                                                                                                                                                                           
-## MOJE WSZYSTKIE PROJEKTY                                                                                                                                                                         
-### 👉 [Tutaj znajdziesz wszystkie moje projekty](https://github.com/PatrycjaMurdzia/My-all-projects)<br>
-
+  
 ## 🎓 KURSY<br>
 ### SIERPIEŃ 2022 - KWIECIEŃ 2023<br>
 9-miesięczny kurs UX/UI Design z elementami UI - Infoshare Academy<br>
