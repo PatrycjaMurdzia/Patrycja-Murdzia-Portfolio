@@ -1,6 +1,6 @@
 # Patrycja-Murdzia-Tester oprogramowania
 ## SPIS TREŚCI                                                                                                                                                                          
-◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty)  ◦ [KURSY](#kursy) ◦ [ZADANIA PRAKTYCZNE](#zadaniapraktyczne) ◦ [UMIEJĘTNOŚCI TECHNICZNE](#umiejętnościtechniczne) ◦ [UMIEJĘTNOŚCI MIĘKKIE](#umiejętnościmiękkie) ◦ [NARZĘDZIA](#narzędzia)
+◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty)  ◦ [KURSY](#kursy)  ◦ [UMIEJĘTNOŚCI TECHNICZNE](#umiejętnościtechniczne) ◦ [UMIEJĘTNOŚCI MIĘKKIE](#umiejętnościmiękkie) ◦ [NARZĘDZIA](#narzędzia)
 ## 🔍 O MNIE 
 ### CZEŚĆ! 👋  
 Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Interesuję się zapewnianiem jakości i użyteczności aplikacji. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA. 
@@ -37,7 +37,7 @@ Zapraszam do obejrzenia mojego portfolio 📂 oraz do kontaktu 👉
 - Tworzenie raportów z wyników testów oraz dokumentacji testowej.
                                                                                                                                                                                            
 ### **DOKUMENTACJA TESTOWA APLIKACJI MOBILNEJ ZAPROJEKTOWANEJ NA KURSIE UX/UI**
-Repozytorum projektu
+Repozytorum projektu - w trakcie przygotowania
 - Przygotowanie dokumentacji testowej bazując na prototypie aplikacji mobilnej,
 - Projektowanie scenariuszy testów i przypadków testowych bazując na ścieżce użytkownika, makietach, personach i opisie funkcjonalności.
 - Przygotowanie raportu błędów.
@@ -54,16 +54,6 @@ Repozytorum projektu
 
 ### MAJ 2024<br>
 🏆 [Certyfikat ISTQB Poziom podstawowy](https://github.com/PatrycjaMurdzia/Certificates/blob/main/ISTQB%20Certificate.pdf)<br>
-
-## ZADANIA PRAKTYCZNE                                                                                                                                                                               
-### ➡️ [PRZYPADKI TESTOWE](https://github.com/PatrycjaMurdzia/EXERCISES/blob/main/TEST%20CASES%20EXAMPLES/README.md)<br>
-### ➡️ **RAPORTY BŁEDÓW**<br>
-### ➡️ **DEVTOOLS**<br>
-### ➡️ **SQL - DBeaver**<br>
-### ➡️ **POSTMAN**<br>
-### ➡️ **JSON - VISUAL STUDIO CODE**<br>
-### ➡️ **HTML/CSS**<br>
-### ➡️ **JIRA**<br>
 
 ## UMIEJĘTNOŚCI TECHNICZNE
 - Język angielski na poziomie komunikatywnym
@@ -88,16 +78,14 @@ Repozytorum projektu
 ## NARZĘDZIA
 - JIRA
 - TRELLO
-- CONFLUENCE
 - TESTRAIL
-- POSTMAN
+- POSTMAN - podstawy
 - DBEAVER
 - SCREENPRESSO
 - MOVAVI SCREEN
 - FIGMA
 - MAZE
-- MIRO
-- 
+
 <a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
 <img width="1050" height="600" alt="Dziękuję!" src="https://github.com/user-attachments/assets/7d6a262d-e436-441c-ad93-d8c639e5cde2" />
 </a>
