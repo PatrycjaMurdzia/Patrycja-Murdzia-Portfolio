@@ -102,7 +102,6 @@ I invite you to see my portfolio 📂 and to contact with me 👉
 
 <a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
 <img width="1050" height="600" alt="8f86d6b2-d250-4181-a931-77547743ee0c" src="https://github.com/user-attachments/assets/5f236518-234c-455a-84d1-7816634e1562" />
- />
 </a>
 
 👆 Click on the image to move on my Linkedin profile
