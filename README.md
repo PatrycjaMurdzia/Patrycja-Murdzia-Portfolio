@@ -1,6 +1,6 @@
 # Patrycja-Murdzia-Software tester
 ## CONTENTS                                                                                                                                                                         
-◦ [ABOUT ME](#aboutme) ◦ [EXPERIENCE](#experience) ◦ [PROJECTS](#projects)  ◦ [COURSES](#courses) ◦ [TECHNICALSKILLS](#technicalskills)◦ [SOFTSKILLS](#softskills) ◦ [TOOLS](#tools)
+◦ [ABOUT ME](#aboutme) ◦ [EXPERIENCE](#experience) ◦ [PROJECTS](#projects)  ◦ [COURSES](#courses) ◦ [TECHNICAL SKILLS](#technicalskills)◦ [SOFT SKILLS](#softskills) ◦ [TOOLS](#tools)
 ## 🔍 ABOUT ME
 
 ### HI! 👋  
