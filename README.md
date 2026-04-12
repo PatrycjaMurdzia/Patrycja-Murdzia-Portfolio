@@ -42,7 +42,7 @@ I invite you to see my portfolio 📂 and to contact with me 👉
 - Prepared test reports and documentation
                                                                                                                                                                                            
 ### **MOBILE APPLICATION TESTING**
-[Project repository](https://drive.google.com/file/d/1MKNazsORY6rksKXuzdZIpPD5ogGEixGt/view?usp=sharing)
+[Project repository in English](https://drive.google.com/file/d/1MKNazsORY6rksKXuzdZIpPD5ogGEixGt/view?usp=sharing)
 - Created QA technical documentation and test scenario for mobile application mockups developed during a UX/UI course
 - Tested the created mockups, including writing test cases, bug reports, and test results
 - Tools used: Jira
