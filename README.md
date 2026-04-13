@@ -34,8 +34,7 @@ I invite you to see my portfolio 📂 and to contact with me 👉
 
 ## 📝 PROJECTS       
 
-### **TESTOWANIE APLIKACJI WEBOWEJ – GOIT**                                                                                                         
-[Project repository in Polish](https://github.com/PatrycjaMurdzia/Final-project-ending-QA-course/blob/main/Projekt%20ko%C5%84cowy%20GOIT.pdf)
+### **TESTING WEB APPLICATION – GOIT** [Project repository in Polish](https://github.com/PatrycjaMurdzia/Final-project-ending-QA-course/blob/main/Projekt%20ko%C5%84cowy%20GOIT.pdf)
 - Analyzed requirements and created test cases
 - Performed manual testing (functional, regression, exploratory)
 - Reported bugs using TestRail
